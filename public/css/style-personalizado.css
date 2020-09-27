@@ -1,0 +1,10 @@
+/*
+personalizado
+*/    
+.home-background{
+	background-image: url('/backgrounds/bg-masthead2.jpg');
+	background-size: 100%;
+}
+.contact-section{
+    background-image: linear-gradient(#feed01ff, #ff615eff);
+}
