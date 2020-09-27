@@ -19,12 +19,13 @@ body {
 }
 
 .content-section {
-    background-image: linear-gradient(#feed01ff, #ff615eff);
+    /*background-image: linear-gradient(#feed01ff, #ff615eff);*/
+    background-image: linear-gradient(#feed01ff, #FC914E);
     padding-top: 7.5rem;
     padding-bottom: 7.5rem;
 }
 .content-section-portifolio {
-    background-image: linear-gradient(#ff615eff, #feed01ff);
+    background-image: linear-gradient(#ffbd3e, #FC914E);
     padding-top: 7.5rem;
     padding-bottom: 7.5rem;
 }
@@ -384,7 +385,7 @@ a:hover, a:focus, a:active {
 
 /*
 personalizado
-*/    
+*/
 /*.home-background{
   background-image: url('/backgrounds/bg-masthead.jpg');
   background-size: 100%;
